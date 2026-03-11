@@ -1,0 +1,79 @@
+Email:
+3/10/22 
+Hi Brandon,
+
+Has the baby girl arrived yet? Try not to disturb you these days. Just got back from LA after spending one week there. Told Mae and Eric about your generous offer and they are very much appreciative. Would welcome the opportunity to get on a zoom call when you get settled down a little.
+
+I have taken the liberty to share some info below with you. Again, the focus is on economic development, but also I am thinking the English version shall have something to offer to US clients re sourcing products in China,  find qualified equity partners or buyers for the businesses here in the US, or advise US companies re its business strategies in China, etc.
+
+Thanks,
+
+
+Here are some media coverage about some of my work and related projects. Just sent as Fyi
+ 
+https://www.globalatlanta.com/georgia-hires-away-south-carolinas-chinese-investment-guru/
+
+https://www.latimes.com/politics/la-na-pol-south-carolina-china-investments-20190701-story.html
+
+https://www.cnbc.com/2017/05/30/made-in-china-could-soon-be-made-in-the-us.html
+
+https://www.wsj.com/articles/for-more-chinese-firms-it-pays-to-make-it-in-the-u-s-a-1488127931
+
+http://evoxtelevision.com/node/1349/1332/1332?page=1
+
+https://www.sccommerce.com/news/jn-fibers-inc-locating-facility-chester-county
+
+4/24/22
+
+References rar file.
+
+Brandon,
+
+Here are some general comments based on your rough draft. I have also attached my company logo for your reference.
+
+1) did you tell  me that you mentioned that you are working with a guy who is helping us to add some logo, etc to the website, or I misunderstood?
+2) YouTube is being blocked in China. Therefore, we may delete any viedo link on Youtube platform.
+3) seem to be somewhat duplicated between ABOUT US AND Learn More
+4） among the companies listed in Case Study, not sure what the protocol is or if we need to ask each of them for permission to use their logo. Should we consider dropping their logos?
+5)Suggest we use bulletin points to list our services, get rid of the click the links functions.
+6) Maybe remove the "click" functions for Contents in the case study 
+7) Remove all Facebook, INST, Twitter, etc links
+Thanks so much for your help.
+
+My response
+
+Uncle John,
+
+Yes, I have not worked on the site since the initial upload. It is still a prototype so a lot of the changes you mentioned are going to be done once I revise for the first draft based on the information you have provided. 
+
+Correct, I am going to have someone just change the colors of your current logo to match the outline of the website. It will still be the same logo.
+No problem.
+Learn more just scrolls you to the about us section. As we build more pages, the learn more buttons will link to the applicable page.
+That is completely up to you. I don't believe it is a problem to use a logo as a client or previous business venture but you can definitely check with them or I can just remove them.
+The point of dropdowns is to add engagement with the user. It is easy to scroll over bullet points on a page with endless words and paragraphs. Buttons and links allow us to break up the site into digestible bites. There is nothing less engaging than a static site.
+The clickable link for case studies will open the full case study page once I upload all of them.
+No problem.
+I am going to make changes today and upload some of other pages to build upon for case study and about us, etc. The only question I would ask is, are you promoting Linvest or John Ling? For a company site, it is good to use the focus of the company and/or brand, rather than the owner. However, if you are working more on the idea that the company is John Ling, then I can reword a bit and focus less on the company. 
+
+Thank you.
+
+
+5/2/22
+
+Brandon,
+
+Here are some general comments based on your rough draft. I have also attached my company logo for your reference.
+
+1) did you tell  me that you mentioned that you are working with a guy who is helping us to add some logo, etc to the website, or I misunderstood?
+2) YouTube is being blocked in China. Therefore, we may delete any viedo link on Youtube platform.
+3) seem to be somewhat duplicated between ABOUT US AND Learn More
+4） among the companies listed in Case Study, not sure what the protocol is or if we need to ask each of them for permission to use their logo. Should we consider dropping their logos?
+5)Suggest we use bulletin points to list our services, get rid of the click the links functions.
+6) Maybe remove the "click" functions for Contents in the case study
+7) Remove all Facebook, INST, Twitter, etc links
+Thanks so much for your help.
+
+John
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
